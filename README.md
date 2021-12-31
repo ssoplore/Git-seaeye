@@ -1,7 +1,8 @@
 # Git-seaeye
-## 깃 씨아이
 
-소스코드 블록
+---
+
+1. 소스코드 블록
 
 ```c
 #include <stdio.h>
@@ -12,28 +13,39 @@ return 0;
 ```
 
 
-링크
+2. 링크
 
-[블로그 주소] (https://blog.naver.com)
+Click [블로그 주소] (https://blog.naver.com)
 
-[블로그 주소](https://blog.naver.com)
+Click [블로그 주소](https://blog.naver.com)
 
-순서 없는 목록
+3. 순서 없는 목록
 
-* 깃
-  * 깃
-    * 깃깃
-      * 깃긱시
+* 별
+  * 별
+    + 더하기
+      - 빼기
 
-인용 구문
-> 공부!!!씨아이
+4. 인용 구문
+> 씨아이 마크다운 공부
 
-테이블
+5. 테이블
 
 이름|영어|정보|수학
----|---|---|---|
+---:|---|---|---|
 안녕|하세|요내|이름|
 
-강조
+6. 강조
 
-**안녕** 먹다가 ~~하이~~
+이것은 **굵은** 글씨이며
+이것은 *이탈릭*체 이며
+이것은 ~~밑줄~~ 이다
+
+7. 이미지
+
+
+![image description](https://cdn.crowdpic.net/list-thumb/thumb_l_95B974CF4BE214C38B30E32A3C7FC4CB.png)
+
+___
+
+
